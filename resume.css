@@ -60,6 +60,8 @@ p.lead {
 
 .social-icons a {
     display: inline-block;
+    align-items: baseline;
+    position: relative;
     height: 4rem;
     width: 4rem;
     background-color: #495057;
