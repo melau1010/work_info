@@ -73,7 +73,9 @@
   position: absolute;
   text-align: center;
   width: 2em;
-  line-height: inherit; }
+  line-height: inherit; 
+  list-style-type: disc;
+}
 
 .fa-border {
   border: solid 0.08em #eee;
